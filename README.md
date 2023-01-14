@@ -14,7 +14,7 @@ N/A.
 
 Simply click the button and follow the prompts accurately to create your password.
 
-![PASSWORD-GENERATOR](images/Screenshot.png)
+![PASSWORD-GENERATOR](assets/images/Screenshot.png)
 
 ## Credits
 
